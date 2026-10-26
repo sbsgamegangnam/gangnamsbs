@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gangnamsbs.vercel.app/sitemap.xml
+Sitemap: https://gangnamsbs.netlify.app/sitemap.xml

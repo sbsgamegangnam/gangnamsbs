@@ -1,7 +1,7 @@
 SBS아카데미게임학원 강남점 홈페이지 (정적 사이트)
 
-[배포] 일산점 가이드와 동일 (GitHub 업로드 → Vercel Import → Framework Preset: Other → Deploy)
-사이트 주소 기준: https://gangnamsbs.vercel.app  ※ 다른 주소로 배포하면 sitemap.xml·robots.txt·각 페이지 canonical을 다시 생성해야 합니다.
+[배포] GitHub 업로드 → Netlify에서 Import from Git → gangnamsbs 저장소 → Deploy (빌드 설정 비움)
+사이트 주소 기준: https://gangnamsbs.netlify.app  ※ 다른 주소로 배포하면 sitemap.xml·robots.txt·각 페이지 canonical을 다시 생성해야 합니다.
 
 [주소 구조]
 /                         홈
